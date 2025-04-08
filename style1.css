@@ -304,15 +304,15 @@ body {
     }
 
     .container-led {
-        max-width: 370px;
+        max-width: 300px;
     }
 
     .dashboard-dht {
-        max-width: 370px;
+        max-width: 300px;
     }
 
     .container-jarak {
-        max-width: 370px;
+        max-width: 300px;
     }
 
     .jumbotron h1 {
